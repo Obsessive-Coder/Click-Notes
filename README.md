@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Click It Notes
+[Live Preview](http://clicknotes.com.s3-website.us-east-2.amazonaws.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## OVERVIEW
+Click It Notes brings simplicity and automation to the note taking process during our final TA interviews while supporting consistent and quality reports among all team members. Interviewers will have a clean and simple user interface that allows them to click buttons to take notes of the most common behaviors identified during a final TA exercise. When an interview has finished, users can generate a human readable report showing the outcome of their Click It Notes.
 
-## Available Scripts
+## BENEFITS
+1. Consistent interview reports.
+2. Consistent hiring recommendations.
+3. Interviewer won’t appear distracted while taking notes.
+4. Quick notes for those who prefer speed of handwritten notes.
+5. Interview reviews made easy with added consistency and timestamps.
+6. **SAVE THE TREES, MAN!**
 
-In the project directory, you can run:
+## CORE FEATURES
+|         |            |
+| ------- |:----------|
+| 1. List of high-level abilities and desired traits      | 6. Click an item to generate a note            |
+| 2. List of positive points                              | 7. Show “pass” script                          |
+| 3. List of negative points                              | 8. Show “fail” script                          |
+| 4. List of red flags                                    | 9. Generate human readable report              |
+| 5. List of code problems and errors                     | 10. Button to copy the report to the clipboard |
 
-### `yarn start`
+## MORE FEATURES
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+|         |            |
+| ------- |:----------|
+| 1. Recommend feedback points                    | 5. Prompt user to initiate final feedback |
+| 2. Recommend hiring status                      | 6. Prompt user to initiate early feedback |
+| 3. Access to SOP, FAQ, etc                      | 7. Integrate with Salesforce              |
+| 4. Prompt user to initiate midway feedback      | 8. Integrate with Google Calendar         |
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## SCREENSHOTS
+<img src="screenshots/Click-It-Notes.PNG" />
