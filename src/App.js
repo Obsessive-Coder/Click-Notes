@@ -14,7 +14,7 @@ import Home from './pages/Home/home';
 
 function App() {
   return (
-    <Router>
+    <Router basename={'https://obsessive-coder.github.io/click-notes/'}>
       <Container
         fluid
         id="display"
