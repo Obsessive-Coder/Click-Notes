@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/click-notes/static/css/main.4c7949d1.chunk.css",
+    "main.js": "/click-notes/static/js/main.61e6264b.chunk.js",
+    "main.js.map": "/click-notes/static/js/main.61e6264b.chunk.js.map",
+    "runtime-main.js": "/click-notes/static/js/runtime-main.c94f9abe.js",
+    "runtime-main.js.map": "/click-notes/static/js/runtime-main.c94f9abe.js.map",
+    "static/css/2.58b3f179.chunk.css": "/click-notes/static/css/2.58b3f179.chunk.css",
+    "static/js/2.3a20b895.chunk.js": "/click-notes/static/js/2.3a20b895.chunk.js",
+    "static/js/2.3a20b895.chunk.js.map": "/click-notes/static/js/2.3a20b895.chunk.js.map",
+    "static/js/3.100afb37.chunk.js": "/click-notes/static/js/3.100afb37.chunk.js",
+    "static/js/3.100afb37.chunk.js.map": "/click-notes/static/js/3.100afb37.chunk.js.map",
+    "index.html": "/click-notes/index.html",
+    "static/css/2.58b3f179.chunk.css.map": "/click-notes/static/css/2.58b3f179.chunk.css.map",
+    "static/css/main.4c7949d1.chunk.css.map": "/click-notes/static/css/main.4c7949d1.chunk.css.map",
+    "static/js/2.3a20b895.chunk.js.LICENSE.txt": "/click-notes/static/js/2.3a20b895.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c94f9abe.js",
+    "static/css/2.58b3f179.chunk.css",
+    "static/js/2.3a20b895.chunk.js",
+    "static/css/main.4c7949d1.chunk.css",
+    "static/js/main.61e6264b.chunk.js"
+  ]
+}
